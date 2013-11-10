@@ -1,5 +1,5 @@
 node 'Rashid-Desais-MacBook-Pro.local' {
   file { '/tmp/hello':
-   content => "Hellow, world\n",
+   content => "Hello, world\n",
   }
 }
